@@ -1,0 +1,34 @@
+.wrapper {
+	flex-grow: 1;
+	text-align: center;
+}
+
+.form {
+	margin-top: 250px;
+}
+
+.input {
+	background: none;
+	border: 2px solid #fff;
+	border-radius: 30px;
+	padding-left: 20px;
+	width: 200px;
+	height: 25px;
+	color: #fff;
+	outline: none;
+}
+
+::-webkit-input-placeholder {
+	color: #000;
+}
+.btn {
+	color: #fff;
+	background: none;
+	height: 30px;
+	border-radius: 30px;
+	border: 2px solid #fff;
+	margin-left: 5px;
+	outline: none;
+}
+
+

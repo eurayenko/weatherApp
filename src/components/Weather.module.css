@@ -1,0 +1,19 @@
+.list {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.item {
+	margin-right: 10px;
+	color: #000;
+}
+
+.span {
+	color: #fff;
+}
+
+.error {
+	color: #ff6666;
+}
